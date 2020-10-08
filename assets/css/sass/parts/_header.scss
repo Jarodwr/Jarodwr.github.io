@@ -1,7 +1,7 @@
 .main-header {
   font-family: 'Lato', sans-serif;
   padding: 15px 0;
-  background-color: $white;
+  background-color: $bgPrimary;
   box-shadow: 0px -5px 15px rgba(0,0,0,.3);
 
   .header-flex {
@@ -29,7 +29,7 @@
   z-index: 10;
   width: 300px;
   height: 100%;
-  background-color: $white;
+  background-color: $bgPrimary;
   padding: 25px 30px;
   transform: translate3d(-300px, 0, 0);
   ul {
