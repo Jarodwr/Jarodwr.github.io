@@ -783,7 +783,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Lato", sans-serif;
-  color: #5bb4e7;
+  color: #fff9e9;
   font-weight: 400;
 }
 
@@ -797,11 +797,11 @@ a {
 }
 
 blockquote {
-  border-left: 3px solid #5bb4e7;
+  border-left: 3px solid #fff9e9;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 
 pre {
@@ -887,7 +887,7 @@ pre code {
   text-transform: uppercase;
   font-size: 27px;
   font-weight: 300;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 
 .main-nav {
@@ -916,7 +916,7 @@ pre code {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 18px;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 .main-nav ul li a:hover {
   opacity: 0.8;
@@ -939,7 +939,7 @@ pre code {
 .search-icon-close {
   cursor: pointer;
   font-size: 18px;
-  color: #5bb4e7;
+  color: #fff9e9;
   transition: all 0.4s;
   padding: 10px;
 }
@@ -1108,7 +1108,7 @@ pre code {
 }
 .main-footer .copyright {
   text-align: center;
-  color: #5bb4e7;
+  color: #fff9e9;
   font-size: 16px;
 }
 
@@ -1146,7 +1146,7 @@ pre code {
   font-size: 36px;
   text-align: center;
   margin: 0 0 20px;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 .header-page .page-date {
   text-align: center;
@@ -1165,7 +1165,7 @@ pre code {
 .page-footer .page-share {
   text-transform: uppercase;
   font-size: 12px;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 .page-footer .page-tag {
   margin-bottom: 10px;
@@ -1195,7 +1195,7 @@ pre code {
 .recent-box .recent-title {
   font-family: "Lato", sans-serif;
   font-weight: 400;
-  color: #5bb4e7;
+  color: #fff9e9;
   text-align: center;
   margin: 0 0 30px;
 }
@@ -1273,7 +1273,7 @@ pre code {
   font-size: 14px;
   text-align: center;
   color: #1a1a2e;
-  background-color: #5bb4e7;
+  background-color: #fff9e9;
   vertical-align: baseline;
   cursor: pointer;
   border: none;
@@ -1352,7 +1352,7 @@ pre code {
   display: block;
   height: 1px;
   width: 80px;
-  background-color: #5bb4e7;
+  background-color: #fff9e9;
 }
 .about-header .author-image-container {
   width: 100px;
@@ -1362,7 +1362,7 @@ pre code {
   margin: 0 auto 30px;
 }
 .about-header .subtitle {
-  color: #5bb4e7;
+  color: #fff9e9;
   font-weight: 300;
   margin: 0;
 }
@@ -1404,7 +1404,7 @@ pre code {
   font-size: 36px;
   text-align: center;
   margin: 0 0 30px;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 .blog-tags .tags {
   margin: 0;
@@ -1413,7 +1413,7 @@ pre code {
 }
 .blog-tags .tags li a {
   display: inline-block;
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 .blog-tags .tags li a:hover {
   opacity: 0.8;
@@ -1431,7 +1431,7 @@ pre code {
   opacity: 0.8;
 }
 .blog-tags .tag-list small {
-  color: #5bb4e7;
+  color: #fff9e9;
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
